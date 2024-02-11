@@ -38,4 +38,5 @@ List Of Features ###
 
 
 ________________________________________________________________________________________________________
-Programming The GX-3737 Custom Software By The Security Researcher : Karf5 #_#
+Programming The GX-3737 Custom Software By The Cyber Security Engineer : Karf5 #_#
+
