@@ -34,9 +34,13 @@ List Of Features ###
 ####################
 
 1- You Can Dump The Software Without The Read And Write Protection
+
 2- You Can Edit The Software With The GX-Tools
+
 3- You Have The Full Access To The Device Kernel
+
 4- You Have The Full Access To The Device Root 
+
 5- And Many More Features
 
 
