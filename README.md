@@ -7,8 +7,11 @@ Copy GX-3737 Classic Custom Software.bin File To The Directory Of The USB Drive
 And Plug The USB Drive In The Sattlite Reciver
 
 1- Go To Your GX-3737 Sattlite Reciver
+
 2- Go To Settings
+
 3- Go To Update Software  
+
 4- Select The GX-3737 Classic Custom Software.bin File And Click On OK
 
 And The Update Is Start
