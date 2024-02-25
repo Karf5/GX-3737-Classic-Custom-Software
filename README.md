@@ -30,8 +30,7 @@ ________________________________________________________________
 What You Can Do With The Custom Software Jailbreak | See The List Below
 
 ####################
-List Of Features ###
-####################
+List Of Features #######################
 
 1- You Can Dump The Software Without The Read And Write Protection
 
