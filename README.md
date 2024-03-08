@@ -14,13 +14,13 @@ And Plug The USB Drive In The Sattlite Reciver
 
 4- Select The GX-3737 Classic Custom Software.bin File And Click On OK
 
-And The Update Is Start
+- And The Update Is Start
 
-After The Update Complete The Software Will Boot Automatic 
+- After The Update Complete The Software Will Boot Automatic 
 
-Go To The Settings And You Will See The Custom Software Logo On The Top Of The Right
+- Go To The Settings And You Will See The Custom Software Logo On The Top Of The Right
 
-Go To The Settings - Go To The System Settings - Go To The Custom Software Settings 
+- Go To The Settings - Go To The System Settings - Go To The Custom Software Settings 
 - And You Will See The Device Information And Custom Software Information
 ________________________________________________________________
                                                                                                                                        
