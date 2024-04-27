@@ -40,8 +40,11 @@ List Of Features #######################
 
 4- You Have The Full Access To The Device Root 
 
-5- And Many More Features
+5- Added Full Support For Any IPTV Channels File
 
+6- We Have Improved System Performance And Stability
+
+7- And Many More Features
 
 ________________________________________________________________________________________________________
 Programming The GX-3737 Custom Software By The Cyber Security Engineer : Karf5 #_#
